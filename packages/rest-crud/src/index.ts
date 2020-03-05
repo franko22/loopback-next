@@ -6,4 +6,3 @@
 export * from './crud-rest.api-builder';
 export * from './crud-rest.component';
 export * from './crud-rest.controller';
-export * from './repository-builder';
