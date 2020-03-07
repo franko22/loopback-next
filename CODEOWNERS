@@ -253,6 +253,7 @@
 /packages/model-api-builder @nabdelgadir
 /packages/rest-crud @nabdelgadir
 /packages/booter-rest @nabdelgadir
+/examples/crud-rest @nabdelgadir
 
 #
 # Cloud Native tooling
